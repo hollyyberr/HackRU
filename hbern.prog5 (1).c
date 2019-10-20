@@ -162,7 +162,8 @@ int dayValidate(int day,int month,int year)
         error=1;
     return error;
 }
-/*Copy and paste sample data set of auto tracking into program
+/*
+Copy and paste sample data set of auto tracking into program
 01012018 000032 2.65
 01022018 000068 5.73
 01032018 000149 10.34
@@ -536,4 +537,4 @@ int dayValidate(int day,int month,int year)
 12302018 019533 5.66
 12312018 019578 3.36
 99999999 999999 99
-
+*/
